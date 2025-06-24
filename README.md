@@ -21,7 +21,7 @@ In this project, the aim is to build a modern tip calculator. The project's prim
 ### Links
 
 - Solution URL: [https://github.com/kpuzzonia/tip-calculator](https://github.com/kpuzzonia/tip-calculator)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://kpuzzonia.github.io/tip-calculator/](https://kpuzzonia.github.io/tip-calculator/)
 
 ### Built with
 
